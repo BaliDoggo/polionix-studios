@@ -14,7 +14,7 @@ p {
 .syne-heading {
   font-family: "Syne", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 500;
   font-style: normal;
 }
 
@@ -35,7 +35,7 @@ a {
   text-shadow: #808080 -1px 1px;
   text-align: center;
   text-decoration: none;
-  font-family: “Syne”, sans-serif;
+  font-family: Syne, sans-serif;
   
 }
 
@@ -44,7 +44,8 @@ a:hover {
   text-shadow: #ff0000 -1px 1px;
   text-align: center;
   text-decoration: none;
-  font-family:monospace;
+  font-family: Syne, sans-serif;
+  font-weight: 700
   
 }
 s {
