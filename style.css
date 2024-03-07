@@ -12,6 +12,7 @@ height: auto;
 min-height: 100%;
 z-index: -100;    
 background-size: cover;
+pointer-events: none;
 }
 
 p {
