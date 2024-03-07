@@ -11,7 +11,7 @@ p {
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 400 to 800
 
-.syne-<uniquifier> {
+.syne-heading {
   font-family: "Syne", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -27,7 +27,7 @@ p {
   border-radius: 10px;
   border-color: #808080;
   border-style: solid;
-  font-family: “Syne”, sans-serif;
+  font-family: Syne, sans-serif;
 
 }
 a {
