@@ -17,7 +17,6 @@ pointer-events: none;
 
 p {
   color: #ffffff;
-  text-shadow: #808080 -1px 1px;
   text-align: center;
   font-family: “Verdana”;
 }
@@ -34,9 +33,7 @@ p {
 
 .h1 {
   font-weight: bold;
-  color: #00ffff;
-  text-shadow: #808080 -2px 2px;
-  background-color: #f0ffff;
+  color: #bfbfbf;
   font-size: 35px;
   border-radius: 10px;
   border-color: #808080;
@@ -54,8 +51,7 @@ a {
 }
 
 a:hover {
-  color: #00ffff;
-  text-shadow: #ff0000 -1px 1px;
+  color: #bfbfbf;
   text-align: center;
   text-decoration: none;
   font-family: Syne, sans-serif;
@@ -64,7 +60,7 @@ a:hover {
 }
 s {
   font-weight: bold;
-  color: #a35670;
+  color: #bfbfbf;
   text-align: center;
   font-size: 15px;
   text-decoration: none;
