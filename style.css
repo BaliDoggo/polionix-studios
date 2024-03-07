@@ -7,6 +7,17 @@ p {
   text-align: center;
   font-family: “Verdana”;
 }
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 800
+
+.syne-<uniquifier> {
+  font-family: "Syne", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 .h1 {
   font-weight: bold;
   color: #00ffff;
@@ -16,7 +27,7 @@ p {
   border-radius: 10px;
   border-color: #808080;
   border-style: solid;
-  font-family: “Verdana”;
+  font-family: “Syne”, sans-serif;
 
 }
 a {
@@ -24,7 +35,7 @@ a {
   text-shadow: #808080 -1px 1px;
   text-align: center;
   text-decoration: none;
-  font-family: “Verdana”;
+  font-family: “Syne”, sans-serif;
   
 }
 
@@ -42,7 +53,7 @@ s {
   text-align: center;
   font-size: 15px;
   text-decoration: none;
-  font-family:sans-serif;
+  font-family: “Syne”, sans-serif;
 
 }
 
